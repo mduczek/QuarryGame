@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/black.png</file>
+        <file>images/gold.png</file>
+        <file>images/gray.png</file>
+        <file>images/mud.png</file>
+        <file>images/red.png</file>
+        <file>images/white.png</file>
+        <file>images/yellow.png</file>
+        <file>images/crack1.png</file>
+        <file>images/crack2.png</file>
+        <file>images/crack3.png</file>
+        <file>images/multi.png</file>
+        <file>tremble.jpg</file>
+        <file>GamePlayer.png</file>
+        <file>images/skull.png</file>
+        <file>images/morph.png</file>
+    </qresource>
+</RCC>
